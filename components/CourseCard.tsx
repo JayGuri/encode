@@ -5,12 +5,12 @@ export default function CourseCard({ course }: { course: Course }) {
   return (
     <Link href={`/course/${encodeURIComponent(course.name)}`}>
       <div className="bg-white bg-opacity-30 backdrop-blur-lg rounded-xl shadow-lg overflow-hidden transition-all duration-300 hover:scale-105 hover:bg-opacity-40 h-full flex flex-col">
-        <div className="relative h-48 w-full">
+        <div className="relative aspect-video w-full">
           {course.image && course.image.trim() !== '' ? (
             <img
               src={course.image}
               alt={course.name}
-              className="object-cover w-full h-full"
+              className="object-contain w-full h-full"
             />
           ) : (
             <div className="w-full h-full flex items-center justify-center bg-gray-200">

@@ -8,7 +8,7 @@ export default async function Home({
   searchParams: { page: string }
 }) {
   const page = parseInt(searchParams.page) || 1
-  const pageSize = 10
+  const pageSize = 12
   const courses = await getCourses()
   const totalPages = Math.ceil(courses.length / pageSize)
   const paginatedCourses = courses.slice((page - 1) * pageSize, page * pageSize)
