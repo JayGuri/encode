@@ -2,321 +2,381 @@
   {
     "name": "100 Days of Code: The Complete Python Pro Bootcamp for 2023",
     "instructor": "Dr. Angela Yu",
+    "instructor_photo": "https://miro.medium.com/v2/resize:fit:1400/0*eAzmQi3nLhvCK6BJ.jpg",
+    "instructor_description" : "Dr. Angela Yu is a renowned developer, educator, and founder of the London App Brewery, a leading programming bootcamp. With a passion for making coding accessible to all, she has taught millions of students worldwide through her highly-rated courses on web development, mobile app development, and machine learning. Known for her engaging teaching style and clear explanations, Dr. Yu empowers learners to build practical, real-world projects, turning beginners into confident developers. Her courses provide a comprehensive foundation for anyone aspiring to succeed in tech.",
     "rating": 4.8,
     "techStack": ["Python", "Flask", "Django", "Data Science"],
     "overview": "Master Python by building 100 projects in 100 days.",
     "detailedContent": "The '100 Days of Code: The Complete Python Pro Bootcamp' for 2023 is a hands-on, project-based course designed to help you master Python and related technologies. Over 100 days, you will build 100 real-world projects, covering Python fundamentals, web development with Flask and Django, data science, machine learning basics, automation, and game development. You'll also work with APIs, create GUI applications, and explore data visualization using popular libraries like Pandas, Matplotlib, and NumPy. With a focus on practical learning, this course ensures you develop a robust skill set and a portfolio of projects to showcase your expertise in Python programming.",
     "duration": "60 hours",
     "tags": ["Python", "Web Development", "Data Science"],
-    "image": "https://img-c.udemycdn.com/course/240x135/2776760_f176_10.jpg",
+    "image": "https://img-c.udemycdn.com/course/750x422/2776760_f176_10.jpg",
+    "dummyvideo_link":"https://youtu.be/4wGuB3oAKc4?si=fhN6OSfy9bMYlrkz",
     "reviews": [
-      "An excellent course with a hands-on approach to learning Python.",
-      "Dr. Angela Yu's teaching style is engaging and easy to follow.",
-      "The 100 projects helped me build a solid foundation in Python."
+      "This course offers an outstanding hands-on approach to learning Python. Each project is thoughtfully designed to teach practical skills and reinforce key concepts. The step-by-step guidance makes it easy to follow, even for beginners. It's a must-take course for anyone serious about mastering Python.",
+      "Dr. Angela Yu’s teaching style is engaging and easy to follow, making learning Python an enjoyable experience throughout the course.",
+      "The 100 projects helped me build a solid foundation in Python and gain confidence in applying concepts to real-world problems."
     ]
   },
   {
     "name": "The Complete 2024 Web Development Bootcamp",
     "instructor": "Dr. Angela Yu",
+    "instructor_photo": "https://miro.medium.com/v2/resize:fit:1400/0*eAzmQi3nLhvCK6BJ.jpg",
+    "instructor_description" : "Dr. Angela Yu is a renowned developer, educator, and founder of the London App Brewery, a leading programming bootcamp. With a passion for making coding accessible to all, she has taught millions of students worldwide through her highly-rated courses on web development, mobile app development, and machine learning. Known for her engaging teaching style and clear explanations, Dr. Yu empowers learners to build practical, real-world projects, turning beginners into confident developers. Her courses provide a comprehensive foundation for anyone aspiring to succeed in tech.",
     "rating": 4.7,
     "techStack": ["HTML", "CSS", "JavaScript", "Node.js", "React"],
     "overview": "Become a Full-Stack Web Developer with just ONE course.",
-    "detailedContent": "Learn front-end and back-end development, including HTML, CSS, JavaScript, Node.js, React, and databases. Build real-world projects to showcase your skills.",
+    "detailedContent": "The 'Complete 2024 Web Development Bootcamp' is a comprehensive, project-based course that takes you from beginner to full-stack web developer. You’ll master front-end technologies like HTML, CSS, and JavaScript, and dive into back-end development with Node.js, Express, and databases. The course also covers modern frameworks like React to help you build dynamic and interactive web applications. Through hands-on projects, you’ll create a portfolio showcasing real-world applications, such as responsive websites, RESTful APIs, and single-page applications. With a focus on both fundamental and advanced skills, this course equips you to confidently tackle web development challenges and build professional-grade applications.",
     "duration": "55 hours",
     "tags": ["Web Development", "Full-Stack"],
-    "image": "https://img-c.udemycdn.com/course/240x135/1565838_e54e_16.jpg",
+    "image": "https://img-c.udemycdn.com/course/750x422/1565838_e54e_18.jpg",
+    "dummyvideo_link":"https://youtu.be/5PdEmeopJVQ?si=Q3_T5HbrJgjlDLZI",
     "reviews": [
-      "Comprehensive and up-to-date course on web development.",
-      "The projects are practical and helped me build my portfolio.",
-      "Dr. Yu explains complex concepts in an easy-to-understand manner."
+      "This course is a comprehensive and up-to-date resource for anyone looking to become a web developer. It covers everything from the basics of HTML and CSS to advanced topics like Node.js and React. The hands-on projects are incredibly well-designed, making it easy to apply what you learn. By the end of the course, I felt confident in my ability to build real-world web applications.",
+      "The projects in this course are practical and helped me create a professional portfolio to showcase my skills.",
+      "Dr. Yu’s teaching style is exceptional. She breaks down complex concepts into simple, digestible explanations, making learning web development an enjoyable experience."
     ]
   },
   {
     "name": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
     "instructor": "Kirill Eremenko",
+    "instructor_photo": "https://media.licdn.com/dms/image/v2/C4E05AQEt_tmj5uA5OA/videocover-low/videocover-low/0/1670325563360?e=2147483647&v=beta&t=B4sEZ-fG5_9RBHym2uwUTDNxz1Vu6zFoPLD0ozDrHJk",
+    "instructor_description": "Kirill Eremenko is a highly acclaimed data scientist, educator, and founder of SuperDataScience, a platform dedicated to empowering learners with data science and analytics skills. With years of industry experience and a passion for teaching, Kirill has trained millions of students worldwide through his engaging courses on topics like machine learning, data visualization, and artificial intelligence. Known for his clear explanations and hands-on approach, Kirill equips students with practical skills to tackle real-world problems, making complex concepts accessible to learners of all levels. His courses are perfect for anyone aspiring to excel in the field of data science.",
     "rating": 4.5,
     "techStack": ["Python", "R", "Machine Learning"],
     "overview": "Learn to create Machine Learning Algorithms in Python and R.",
     "detailedContent": "This course covers machine learning algorithms, data preprocessing, regression, classification, clustering, and more, with practical exercises in Python and R.",
     "duration": "40 hours",
     "tags": ["Machine Learning", "Data Science"],
-    "image": "https://img-c.udemycdn.com/course/240x135/950390_270f_3.jpg",
+    "image": "https://img-c.udemycdn.com/course/750x422/513244_b831_4.jpg",
+    "dummyvideo_link":"https://youtu.be/4lcwTGA7MZw?si=-khP2YoMBn9GZHX4",
     "reviews": [
-      "Great course with practical examples.",
-      "Helped me understand complex ML concepts.",
-      "Well-structured and easy to follow."
+      "An excellent course with practical examples that make learning data science fun and easy. The real-world projects are incredibly helpful.",
+      "Kirill breaks down complex ML concepts into simple, understandable lessons. I finally feel confident applying them in real scenarios.",
+      "The course is well-structured and easy to follow, with clear explanations and hands-on exercises that reinforce key concepts."
     ]
   },
   {
     "name": "The Complete JavaScript Course 2023: From Zero to Expert!",
     "instructor": "Jonas Schmedtmann",
+    "instructor_photo" : "https://pbs.twimg.com/media/D425Vt6XkAIzS7m?format=jpg&name=4096x4096",
+    "instructor_description":"Jonas Schmedtmann is a senior web developer, designer, and one of Udemy's top instructors, known for his expertise in modern web development and design. With a degree in Economics and Business Administration, Jonas transitioned into tech to pursue his passion for creating exceptional user experiences. Currently, he works as a lead developer while teaching millions of students worldwide through his engaging and highly practical courses. Jonas's clear explanations, industry insights, and real-world projects make his courses perfect for aspiring developers and professionals looking to enhance their skills in web development and design.",
     "rating": 4.8,
     "techStack": ["JavaScript", "ES6+", "Node.js", "React"],
     "overview": "Master JavaScript with projects, challenges, and theory.",
-    "detailedContent": "Dive deep into JavaScript, covering ES6+, asynchronous programming, DOM manipulation, and build real-world projects like a web app and a modern website.",
+    "detailedContent": "The 'Complete JavaScript Course 2023: From Zero to Expert!' is a comprehensive, hands-on course designed to take you from a complete beginner to a proficient JavaScript developer. It covers everything from core JavaScript fundamentals to advanced concepts like ES6+ features, asynchronous programming, and modern development practices. You’ll gain a deep understanding of the Document Object Model (DOM), event handling, and API integrations, enabling you to build dynamic and interactive web applications. Through engaging projects, such as creating a fully functional web app and a modern, responsive website, you’ll apply your knowledge in real-world scenarios. With a focus on both theory and practice, this course equips you with the skills needed to excel in JavaScript and web development.",
     "duration": "52 hours",
     "tags": ["JavaScript", "Web Development"],
-    "image": "https://img-c.udemycdn.com/course/240x135/1672410_9ff1_5.jpg",
+    "image": "https://courselifetime.com/cdn/shop/products/the-complete-javascript-course.jpg?v=1678437925",
+    "dummyvideo_link" : "https://youtu.be/lkIFF4maKMU?si=86PsdF1O2gk8bY-3",
     "reviews": [
-      "Jonas is a fantastic instructor.",
-      "The course content is up-to-date and comprehensive.",
-      "Projects are challenging and rewarding."
+      "Jonas is an exceptional instructor who explains even complex topics in a clear and engaging way. His examples and teaching methods make it easy to follow along and stay motivated. Whether you’re a beginner or looking to advance your skills, this course is perfect. He truly makes learning JavaScript enjoyable and effective.",
+      "The course content is well-structured, up-to-date, and covers everything you need to become proficient in JavaScript, from basics to advanced topics.",
+      "The projects are both challenging and rewarding, helping me build real-world skills and gain confidence in my JavaScript abilities."
     ]
   },
   {
     "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
     "instructor": "Maximilian Schwarzmüller",
+    "instructor_photo":"https://media.licdn.com/dms/image/v2/C4E22AQHdfVZfUdlHxA/feedshare-shrink_800/feedshare-shrink_800/0/1674567572992?e=2147483647&v=beta&t=hUbHcF9QNGt9mYUyTrvM-75g6d5mPOar3WkdgkFWXbE",
+    "instructor_description":"Maximilian Schwarzmüller is a highly regarded full-stack web developer, instructor, and founder of Academind, a platform dedicated to delivering high-quality tech education. With years of hands-on experience in web development, Max specializes in modern frameworks and technologies, including React, Angular, Vue, and Node.js. He is known for his engaging teaching style, breaking down complex topics into easy-to-understand lessons. Max has taught millions of students worldwide, empowering them to build professional-grade applications and master web development skills. His courses are ideal for beginners and experienced developers looking to stay ahead in the fast-evolving tech industry.",
     "rating": 4.7,
     "techStack": ["React", "Hooks", "Redux", "React Router"],
     "overview": "Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Routing, Animations, Next.js, and way more!",
-    "detailedContent": "This course covers React fundamentals, component-based architecture, state management with Hooks and Redux, routing with React Router, and building performant applications.",
+    "detailedContent": "The 'React - The Complete Guide (incl Hooks, React Router, Redux)' course offers a thorough exploration of React.js, taking you from beginner to expert in front-end development. You’ll learn the core concepts of React, including its component-based architecture and how to manage state efficiently using modern tools like Hooks and Redux. The course delves into routing with React Router, enabling you to build seamless and dynamic multi-page applications. Additionally, you’ll explore advanced topics such as optimizing application performance, animations, and integrating Next.js for server-side rendering. By working on real-world projects, you’ll gain practical experience to confidently build professional-grade React applications.",
     "duration": "40 hours",
     "tags": ["React", "Front-End Development"],
-    "image": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+    "image": "https://courselifetime.com/cdn/shop/products/react-the-complete-guide-incl-redux.jpg?v=1678686710",
+    "dummyvideo_link" : "https://youtu.be/CgkZ7MvWUAA?si=3N4ygeOOESeaJ2pg",
     "reviews": [
-      "Maximilian explains React concepts clearly.",
-      "The course is well-structured and easy to follow.",
-      "Helped me build confidence in React development."
+      "This course helped me build confidence in React development through hands-on projects and practical exercises that solidified my understanding.",
+      "The course is well-structured, covering everything from basics to advanced concepts, making it easy to follow and apply.",
+      "Maximilian’s explanations of React concepts are exceptionally clear and easy to understand. He breaks down complex topics into manageable steps, making the learning process smooth and enjoyable. The examples and real-world applications reinforce the material effectively. This course is ideal for anyone looking to master React, whether you're a beginner or looking to advance your skills."
     ]
   },
   {
     "name": "Python for Data Science and Machine Learning Bootcamp",
     "instructor": "Jose Portilla",
+    "instructor_photo":"https://www.courseduck.com/global/images/Jose%20Portilla.jpg",
+    "instructor_description" : "Jose Portilla is a highly experienced data scientist, instructor, and Head of Data Science at Pierian Training. With a background in Mechanical Engineering from Santa Clara University, Jose has a passion for teaching and has trained millions of students worldwide in Python, data analysis, machine learning, and more. Known for his approachable teaching style, he simplifies complex topics and emphasizes practical, hands-on learning through real-world projects. Jose’s courses are ideal for beginners and professionals looking to enhance their skills in data science, programming, and cutting-edge technologies.",
     "rating": 4.6,
     "techStack": ["Python", "Pandas", "Machine Learning"],
     "overview": "Use Python for data analysis and machine learning.",
-    "detailedContent": "Covers Python libraries like Pandas, NumPy, Matplotlib, and machine learning basics with Scikit-Learn.",
+    "detailedContent": "The 'Python for Data Science and Machine Learning Bootcamp' is a comprehensive course designed to equip learners with essential skills for analyzing data and building machine learning models. The course covers Python programming fundamentals and dives deep into popular data science libraries like Pandas, NumPy, and Matplotlib for data manipulation and visualization. You’ll also explore the basics of machine learning with Scikit-Learn, learning to implement algorithms and evaluate their performance. With hands-on projects and practical exercises, this course provides a solid foundation for both beginners and professionals to excel in data science and machine learning using Python.",
     "duration": "40 hours",
     "tags": ["Data Science", "Python"],
-    "image": "https://img-c.udemycdn.com/course/240x135/903744_8eb2.jpg",
+    "image": "https://img-c.udemycdn.com/course/750x422/903744_8eb2.jpg",
+    "dummyvideo_link":"https://youtu.be/LHBE6Q9XlzI?si=31e-OCawXwueJtbY",
     "reviews": [
-      "Jose's explanations are clear and concise.",
-      "A great starting point for data science.",
-      "Could dive deeper into machine learning algorithms."
+      "Jose’s explanations are clear, concise, and easy to follow, making complex concepts feel manageable. His teaching style is highly approachable, and the hands-on exercises reinforce the material effectively. The course structure ensures a smooth learning curve, even for beginners. It’s an excellent choice for anyone starting their data science journey.",
+      "This course is a great starting point for data science, covering Python essentials and foundational libraries like Pandas and Matplotlib.",
+      "While the course provides a good introduction, it lacks depth in machine learning topics. Advanced learners might find it too basic and should consider more in-depth resources."
     ]
   },
   {
     "name": "The Data Science Course 2023: Complete Data Science Bootcamp",
     "instructor": "365 Careers",
+    "instructor_photo":"https://365careers.com/wp-content/uploads/2020/06/tui-2.jpg",
+    "instructor_description":"365 Careers is a leading provider of business, finance, and data science education, known for its comprehensive and beginner-friendly courses. With a focus on practical skills and career growth, 365 Careers offers training in topics like financial analysis, business modeling, Python programming, and data visualization. Their courses combine theory with hands-on projects, enabling students to apply what they learn in real-world scenarios. Trusted by millions of learners worldwide, 365 Careers is an ideal platform for those looking to advance their careers in finance, data science, and business strategy.",
     "rating": 4.6,
     "techStack": ["Python", "SQL", "Machine Learning"],
     "overview": "Learn the core of data science and analytics.",
-    "detailedContent": "This course covers Python, statistics, probability, machine learning, and SQL for data analysis, with practical examples.",
+    "detailedContent": "The 'Data Science Course 2023: Complete Data Science Bootcamp' is a comprehensive program designed to provide a strong foundation in data science and analytics. The course covers essential topics such as Python programming, statistics, probability, SQL for data analysis, and the fundamentals of machine learning. Through practical examples and hands-on exercises, you’ll learn to analyze datasets, visualize trends, and build predictive models. Whether you’re a beginner or looking to strengthen your existing skills, this course equips you with the knowledge and tools needed to excel in data science and apply these techniques to solve real-world problems.",
     "duration": "30 hours",
     "tags": ["Data Science", "Machine Learning"],
-    "image": "https://img-c.udemycdn.com/course/240x135/1754098_e0df_3.jpg",
+    "image": "https://courselifetime.com/cdn/shop/files/the-data-science-course-complete-data-science-bootcamp.jpg?v=1683621313",
+    "dummyvideo_link":"https://youtu.be/bLZ-LSsQMCc?si=ax9f3modZ2HmCcs0",
     "reviews": [
-      "A well-rounded introduction to data science.",
-      "The examples make concepts easy to grasp.",
-      "The SQL section is particularly helpful."
+      "This course is a well-rounded introduction to data science, covering all the essential topics in a clear and structured way. The hands-on examples make learning practical and engaging, making it an excellent choice for beginners",
+      "While the course provides a good overview, it lacks depth in advanced machine learning topics. Those with prior experience might find it too basic for their needs.",
+      "The SQL section is helpful but feels rushed. More detailed explanations and challenging exercises would improve the learning experience."
     ]
   },
   {
     "name": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
     "instructor": "Colt Steele",
+    "instructor_photo":"https://nikzcruzalde.com/wp-content/uploads/2022/11/course3-min-1024x562.jpg",
+    "instructor_description":"Colt Steele is a highly acclaimed web developer, instructor, and educator known for his engaging teaching style and expertise in full-stack development. With years of professional experience in software engineering, Colt has trained hundreds of thousands of students worldwide through his top-rated courses on web development, JavaScript, and backend technologies. He is passionate about breaking down complex topics into simple, digestible lessons, empowering learners to build real-world projects and advance their programming careers. Whether you're a beginner or an experienced developer, Colt's courses provide a solid foundation to master modern web technologies.",
     "rating": 4.7,
     "techStack": ["MySQL", "SQL"],
     "overview": "Master SQL for database management and analysis.",
-    "detailedContent": "This course includes MySQL fundamentals, database design, complex queries, and data visualization.",
-    "duration": "20 hours",
+    "detailedContent": "The 'Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert' is a comprehensive course designed to take you from a complete beginner to a proficient SQL developer. It covers MySQL fundamentals, teaching you how to design and manage databases effectively. You’ll learn to write complex queries, perform advanced data manipulation, and optimize database performance. The course also delves into database design principles and data visualization techniques, enabling you to create meaningful insights from your data. With hands-on exercises and real-world projects, this bootcamp equips you with the practical skills needed to excel in database management and SQL-based applications.",
+    "duration": "10 hours",
     "tags": ["Database", "SQL"],
-    "image": "https://img-c.udemycdn.com/course/240x135/1187016_51b3.jpg",
+    "image": "https://img-c.udemycdn.com/course/750x422/1187016_51b3.jpg",
+    "dummyvideo_link":"https://www.youtube.com/live/q_JsgpiuY98?si=cDs1vkNYrvANrybr",
     "reviews": [
-      "Colt makes SQL interesting and accessible.",
-      "The hands-on exercises are invaluable.",
-      "Great for both beginners and experienced developers."
+      "Colt has a way of making SQL concepts interesting and accessible, even for complete beginners. His engaging teaching style keeps you motivated throughout the course. It’s a fantastic resource for anyone looking to master databases.",
+      "The hands-on exercises are invaluable, helping to reinforce each concept through practical application. They make learning SQL truly interactive and effective.",
+      "This course is great for both beginners and experienced developers, offering clear explanations and challenges that cater to all skill levels."
     ]
   },
   {
     "name": "Blockchain and Cryptocurrency Explained",
     "instructor": "George Levy",
+    "instructor_photo":"https://img-c.udemycdn.com/user/200_H/15387126_543b_7.jpg",
+    "instructor_description":"George Levy is a recognized blockchain and cryptocurrency expert, educator, and advocate for the transformative potential of decentralized technologies. With years of experience in blockchain innovation and digital currencies, George has trained thousands of students worldwide through his engaging and insightful courses. Known for his ability to simplify complex concepts, he helps learners understand blockchain and its real-world applications across various industries. As a passionate educator, George empowers his students with the knowledge and skills to navigate the rapidly evolving world of blockchain and cryptocurrency.",
     "rating": 4.5,
     "techStack": ["Blockchain", "Cryptocurrency"],
     "overview": "Understand blockchain technology and its applications.",
-    "detailedContent": "Learn the fundamentals of blockchain, cryptocurrencies, and how they are transforming industries.",
+    "detailedContent": "The 'Blockchain and Cryptocurrency Explained' course offers a comprehensive introduction to blockchain technology and its real-world applications. You’ll explore the core concepts of blockchain, understand how cryptocurrencies like Bitcoin and Ethereum function, and learn about the transformative impact of these technologies on various industries. The course breaks down complex topics into easy-to-understand lessons, complemented by practical examples and case studies. Whether you’re a beginner or curious about the potential of blockchain and cryptocurrencies, this course provides a solid foundation to grasp these revolutionary technologies.",
     "duration": "8 hours",
     "tags": ["Blockchain", "Cryptocurrency"],
-    "image": "https://img-c.udemycdn.com/course/240x135/1597138_03b2_2.jpg",
+    "image": "https://img-c.udemycdn.com/course/750x422/1151036_64b6_6.jpg",
+    "dummyvideo_link":"https://youtu.be/-mY2hUgHwBk?si=cnCGeLEpn3HAXKVW",
     "reviews": [
-      "A simple yet comprehensive introduction to blockchain.",
-      "George explains concepts clearly with real-world examples.",
-      "Perfect for anyone new to blockchain."
+      "This course is a simple yet comprehensive introduction to blockchain, making it easy for beginners to grasp the fundamental concepts and applications.",
+      "George explains blockchain concepts clearly and uses real-world examples to bridge theory with practical understanding. His teaching style is engaging and effective.",
+      "While the course covers the basics well, it lacks depth in advanced blockchain topics and real-world implementation details, which might disappoint more experienced learners."
     ]
   },
   {
     "name": "Complete Guide to TensorFlow for Deep Learning with Python",
     "instructor": "Jose Portilla",
+    "instructor_photo":"https://www.courseduck.com/global/images/Jose%20Portilla.jpg",
+    "instructor_description" : "Jose Portilla is a highly experienced data scientist, instructor, and Head of Data Science at Pierian Training. With a background in Mechanical Engineering from Santa Clara University, Jose has a passion for teaching and has trained millions of students worldwide in Python, data analysis, machine learning, and more. Known for his approachable teaching style, he simplifies complex topics and emphasizes practical, hands-on learning through real-world projects. Jose’s courses are ideal for beginners and professionals looking to enhance their skills in data science, programming, and cutting-edge technologies.",
     "rating": 4.7,
     "techStack": ["TensorFlow", "Python", "Deep Learning"],
     "overview": "Master TensorFlow for deep learning and neural networks.",
-    "detailedContent": "This course covers TensorFlow basics, building neural networks, and implementing deep learning algorithms.",
+    "detailedContent": "The 'Complete Guide to TensorFlow for Deep Learning with Python' is a comprehensive course designed to help you master TensorFlow, one of the most popular frameworks for deep learning. The course begins with TensorFlow basics, guiding you through its functionalities and setup. You’ll then dive into building and training neural networks, exploring key concepts such as activation functions, backpropagation, and optimization techniques. Additionally, the course covers advanced deep learning algorithms, enabling you to implement models for tasks like image recognition, natural language processing, and time series analysis. Through hands-on projects and real-world examples, this course equips you with the practical skills needed to excel in deep learning and artificial intelligence.",
     "duration": "25 hours",
     "tags": ["Deep Learning", "AI"],
-    "image": "https://img-c.udemycdn.com/course/240x135/1361930_2eb7_2.jpg",
+    "image": "https://miro.medium.com/v2/resize:fit:640/0*BWPuvcrox9dUfk0E.jpg",
+    "dummyvideo_link":"https://youtu.be/6g4O5UOH304?si=xQlleyqIlpwL-j2e",
     "reviews": [
-      "Jose breaks down TensorFlow in a digestible way.",
-      "Excellent course for deep learning beginners.",
-      "The practical examples are extremely helpful."
+      "Jose does an excellent job of breaking down TensorFlow concepts into easy-to-understand lessons. His clear explanations make learning this complex framework approachable for everyone.",
+      "This course is perfect for deep learning beginners, providing a well-structured introduction to TensorFlow and neural networks.",
+      "The practical examples in this course are incredibly helpful, allowing you to apply the concepts and build a strong foundation in deep learning."
     ]
   },
   {
     "name": "Photography Masterclass: A Complete Guide to Photography",
     "instructor": "Phil Ebiner",
+    "instructor_photo":"https://imageio.forbes.com/specials-images/imageserve/5ee91b0ebcc30e0006c1deee/Phil-Ebiner-Video-Square1/0x0.png?format=png&height=1280&width=1280",
+    "instructor_description":"Phil Ebiner is a highly respected educator and online course creator with a passion for helping students succeed in creative and technical fields. With years of experience in video production, photography, design, and online marketing, Phil has taught millions of students worldwide through his engaging and practical courses. Known for his clear teaching style and actionable lessons, he simplifies complex topics and empowers learners to create professional-quality work. Whether you're looking to improve your video editing skills, master design tools, or build an online presence, Phil's courses provide the knowledge and confidence to achieve your goals.",
     "rating": 4.7,
     "techStack": ["Photography"],
     "overview": "Learn photography from beginner to advanced levels.",
-    "detailedContent": "This course covers camera settings, composition, lighting, and editing techniques.",
+    "detailedContent": "The 'Photography Masterclass: A Complete Guide to Photography' is a comprehensive course designed to take you from a beginner to an advanced level in photography. The course covers essential topics such as camera settings, including aperture, shutter speed, and ISO, to help you master your equipment. You’ll also learn the art of composition and how to use lighting effectively to capture stunning photographs in various settings. Additionally, the course delves into post-processing techniques, teaching you how to enhance your photos using professional editing tools. With practical examples and actionable lessons, this course provides the skills and knowledge needed to elevate your photography to a professional standard.",
     "duration": "15 hours",
     "tags": ["Photography", "Lifestyle"],
-    "image": "https://img-c.udemycdn.com/course/240x135/936742_97f1_4.jpg",
+    "image": "https://img-c.udemycdn.com/course/750x422/1462428_639f_10.jpg",
+    "dummyvideo_link":"https://youtu.be/rUFTfKXeUWU?si=TNoVKcJD3uQluppT",
     "reviews": [
-      "Helped me take my photography to the next level.",
-      "Phil is a fantastic and passionate instructor.",
-      "Highly recommended for beginners and enthusiasts alike."
+      "This course truly helped me take my photography to the next level. The lessons on camera settings and composition were detailed and practical, making a noticeable difference in my skills. Phil's guidance is easy to follow and incredibly inspiring, making this course a must for aspiring photographers.",
+      "Phil is a fantastic instructor with a passion for photography that shines through in every lesson. His clear and engaging teaching style makes learning enjoyable and effective.",
+      "This course is highly recommended for beginners and enthusiasts alike, offering valuable insights and techniques that improve both creativity and technical skills."
     ]
   },
   {
     "name": "AWS Certified Solutions Architect – Associate 2023",
     "instructor": "Stephane Maarek",
+    "instructor_photo":"https://img-c.udemycdn.com/course/750x422/1362052_0bbe_7.jpg",
+    "instructor_description": "Stephane Maarek is a highly acclaimed cloud computing expert, educator, and entrepreneur with extensive experience in cloud platforms like AWS, Azure, and Google Cloud. As the founder of DataCumulus and an Amazon-certified professional, Stephane has helped millions of students worldwide gain a deep understanding of cloud architecture, DevOps, and big data technologies. Known for his engaging teaching style and hands-on approach, Stephane specializes in breaking down complex topics into clear, actionable lessons. His courses are ideal for beginners and professionals seeking to advance their careers in cloud computing and data engineering.",
     "rating": 4.8,
     "techStack": ["AWS", "Cloud Computing"],
     "overview": "Pass your AWS certification with this all-in-one course.",
-    "detailedContent": "Learn AWS fundamentals, design scalable systems, and prepare for the certification exam with hands-on labs.",
+    "detailedContent": "The 'AWS Certified Solutions Architect – Associate 2023' course is an all-in-one guide designed to help you master AWS fundamentals and ace the certification exam. This comprehensive course covers key topics such as designing scalable, fault-tolerant systems, understanding core AWS services, and implementing best practices for cloud architecture. With hands-on labs, real-world scenarios, and detailed walkthroughs, you’ll gain practical experience in deploying and managing AWS solutions. Additionally, the course includes exam-focused tips and practice tests to ensure you are fully prepared to pass the certification. Whether you’re a beginner or an IT professional, this course equips you with the knowledge and skills to excel in AWS cloud computing.",
     "duration": "30 hours",
     "tags": ["Cloud Computing", "AWS"],
-    "image": "https://img-c.udemycdn.com/course/240x135/2196488_8fc7.jpg",
+    "image": "https://img-c.udemycdn.com/course/480x270/2789348_065c_4.jpg",
+    "dummyvideo_link":"https://youtu.be/c3Cn4xYfxJY?si=hei43VYa3gU52XWG",
     "reviews": [
-      "Comprehensive and exam-focused AWS course.",
-      "Stephane's teaching style is engaging and effective.",
-      "The practice tests were a game-changer for me."
+      "This course is a comprehensive and exam-focused guide to AWS certification. The content is well-structured, covering all key topics in-depth, while the hands-on labs and real-world examples make it highly practical.",
+      "Stephane’s teaching style is incredibly engaging and effective. He explains complex AWS concepts clearly, making them easy to understand and apply.",
+      "The practice tests in this course were a game-changer for me, helping to reinforce my knowledge and boost my confidence for the certification exam."
     ]
   },
   {
     "name": "Python for Finance: Investment Fundamentals & Data Analytics",
     "instructor": "365 Careers",
+    "instructor_photo":"https://365careers.com/wp-content/uploads/2020/06/tui-2.jpg",
+    "instructor_description":"365 Careers is a leading provider of business, finance, and data science education, known for its comprehensive and beginner-friendly courses. With a focus on practical skills and career growth, 365 Careers offers training in topics like financial analysis, business modeling, Python programming, and data visualization. Their courses combine theory with hands-on projects, enabling students to apply what they learn in real-world scenarios. Trusted by millions of learners worldwide, 365 Careers is an ideal platform for those looking to advance their careers in finance, data science, and business strategy.",
     "rating": 4.6,
     "techStack": ["Python", "Finance"],
     "overview": "Learn Python and apply it to finance and investing.",
-    "detailedContent": "Covers Python programming, financial analysis, and building financial models using libraries like Pandas and Matplotlib.",
+    "detailedContent": "The 'Python for Finance: Investment Fundamentals & Data Analytics' course is a comprehensive guide to applying Python programming in the world of finance and investing. It begins with foundational Python skills and progresses to advanced topics like financial analysis and building dynamic financial models. You’ll learn to use powerful libraries such as Pandas for data manipulation and Matplotlib for data visualization to analyze market trends and develop investment strategies. Through practical examples and hands-on projects, the course bridges the gap between programming and finance, providing the skills needed to create robust financial models and make data-driven investment decisions.",
     "duration": "18 hours",
     "tags": ["Finance", "Python"],
-    "image": "https://img-c.udemycdn.com/course/240x135/2102674_00d2_3.jpg",
+    "image": "https://content.packt.com/V12868/cover_image_small.jpg",
+    "dummyvideo_link":"https://youtu.be/uOqPElBsBmM?si=tYYua2nTw935p3Fs",
     "reviews": [
-      "Great course for learning finance with Python.",
-      "Practical examples make concepts easy to grasp.",
-      "Helped me understand financial modeling better."
+      "This course is an excellent resource for learning finance with Python, combining clear explanations with practical applications to enhance understanding.",
+      "The practical examples provided are extremely helpful, making complex financial concepts easy to grasp and apply.",
+      "While the course covers the basics well, it lacks depth in advanced financial modeling techniques, which might leave experienced learners wanting more."
     ]
   },
   {
     "name": "Mastering Data Structures & Algorithms using C and C++",
     "instructor": "Abdul Bari",
+    "instructor_photo":"https://i.ytimg.com/vi/0IAPZzGSbME/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBYuPmJKMQWl5I4X2neXY1FaJ_Rfw",
+    "instructor_description":"Abdul Bari is a highly respected educator, software engineer, and programming expert with a Master's degree in Computer Science. With extensive teaching experience and a deep understanding of algorithms and programming, Abdul is dedicated to simplifying complex concepts for learners. Currently, he is an independent instructor specializing in Data Structures and Algorithms (DSA) and foundational programming, including C and C++. Known for his clear explanations and problem-solving approach, Abdul’s courses are ideal for students, professionals, and those preparing for competitive programming and technical interviews.",
     "rating": 4.7,
     "techStack": ["C", "C++", "Data Structures"],
     "overview": "A comprehensive course on data structures and algorithms.",
-    "detailedContent": "This course dives into sorting, searching, and advanced data structures like trees, graphs, and dynamic programming.",
+    "detailedContent": "The Mastering Data Structures & Algorithms using C and C++ course offers a comprehensive guide to building a strong foundation in data structures and algorithms. The course begins with fundamental concepts like sorting and searching algorithms and progresses to advanced topics such as trees, graphs, and dynamic programming. Through detailed explanations and hands-on coding exercises, you’ll learn to implement efficient algorithms in C and C++, optimizing problem-solving skills. With a focus on real-world applications, this course is ideal for students, professionals, and anyone preparing for coding interviews or competitive programming challenges.",
     "duration": "45 hours",
     "tags": ["Data Structures", "Algorithms"],
-    "image": "https://img-c.udemycdn.com/course/240x135/857010_8239_2.jpg",
+    "image": "https://courselifetime.com/cdn/shop/files/datastructurescncpp.jpg?v=1687512250",
+    "dummyvideo_link":"https://youtu.be/0IAPZzGSbME?si=90m1b4O60YJjqQhQ",
     "reviews": [
-      "Abdul explains algorithms like no one else.",
-      "The course content is thorough and well-paced.",
-      "Perfect for anyone preparing for coding interviews."
+      "Abdul’s explanations of algorithms are unmatched, making even the most complex topics easy to understand. His teaching style is clear, concise, and highly effective.",
+      "The course content is incredibly thorough and well-paced, ensuring a smooth learning experience while covering all essential data structures and algorithms.",
+      "This course is perfect for anyone preparing for coding interviews, offering practical insights and hands-on exercises that build confidence and expertise."
     ]
   },
   {
     "name": "iOS & Swift - The Complete iOS App Development Bootcamp",
     "instructor": "Dr. Angela Yu",
+    "instructor_photo": "https://miro.medium.com/v2/resize:fit:1400/0*eAzmQi3nLhvCK6BJ.jpg",
+    "instructor_description" : "Dr. Angela Yu is a renowned developer, educator, and founder of the London App Brewery, a leading programming bootcamp. With a passion for making coding accessible to all, she has taught millions of students worldwide through her highly-rated courses on web development, mobile app development, and machine learning. Known for her engaging teaching style and clear explanations, Dr. Yu empowers learners to build practical, real-world projects, turning beginners into confident developers. Her courses provide a comprehensive foundation for anyone aspiring to succeed in tech.",
     "rating": 4.8,
     "techStack": ["Swift", "iOS"],
     "overview": "Learn to build iOS apps from scratch using Swift.",
-    "detailedContent": "This course covers Swift fundamentals, UI design, APIs, and deploying iOS apps to the App Store.",
+    "detailedContent": "The iOS & Swift - The Complete iOS App Development Bootcamp is a comprehensive course designed to take you from a beginner to a proficient iOS app developer. It begins with the fundamentals of Swift programming, including variables, functions, and control structures, before progressing to advanced topics like object-oriented programming. You’ll also master UI design principles, learn to integrate APIs for dynamic data, and understand how to use tools like Xcode and Interface Builder effectively. The course includes hands-on projects, such as building fully functional apps, and concludes with guidance on deploying your creations to the App Store. This course provides the skills and confidence needed to create professional-grade iOS applications.",
     "duration": "45 hours",
     "tags": ["Mobile Development", "iOS"],
-    "image": "https://img-c.udemycdn.com/course/240x135/1778502_f4b9_12.jpg",
+    "image": "https://img-c.udemycdn.com/course/750x422/1778502_f4b9_12.jpg",
+    "dummyvideo_link":"https://youtu.be/UNH0bE4zPtY?si=P_Vfvd_x85kwzf5D",
     "reviews": [
-      "Dr. Yu's teaching style is unmatched.",
-      "I built my first iOS app with this course.",
-      "Perfect blend of theory and practice."
+      "Dr. Yu's teaching style is truly unmatched. Her clear explanations and engaging approach make even complex Swift and iOS concepts easy to grasp, ensuring a smooth learning experience.",
+      "This course enabled me to build my first iOS app from scratch. The step-by-step guidance and hands-on projects were invaluable in gaining practical skills.",
+      "The course offers a perfect blend of theory and practice, combining in-depth lessons with real-world applications to help you confidently create professional-grade iOS apps."
     ]
   },
   {
     "name": "The Complete Digital Marketing Guide - 12 Courses in 1",
     "instructor": "Rob Percival",
+    "instructor_photo":"https://i.insider.com/54f077486bb3f76c1fcb781e?width=800&format=jpeg&auto=webp",
+    "instructor_description":"Rob Percival is a highly acclaimed web developer, entrepreneur, and instructor, known for his engaging teaching style and comprehensive courses. With a background in mathematics from the University of Cambridge and years of experience in web development, Rob has taught millions of students worldwide through his top-rated online courses. As a passionate educator, he simplifies complex topics, empowering learners to master skills in web development, app creation, and programming. Rob’s courses focus on practical, hands-on learning, making them ideal for beginners and professionals looking to enhance their technical expertise and build real-world projects.",
     "rating": 4.5,
     "techStack": ["Digital Marketing"],
     "overview": "Master digital marketing from SEO to social media.",
     "detailedContent": "Includes SEO, content marketing, Google Ads, social media, and analytics for creating successful campaigns.",
     "duration": "30 hours",
     "tags": ["Digital Marketing"],
-    "image": "https://img-c.udemycdn.com/course/240x135/914296_3670_4.jpg",
+    "image": "https://img-c.udemycdn.com/course/750x422/914296_3670_8.jpg",
+    "dummyvideo_link":"https://www.youtube.com/live/rchKaSMQ__8?si=6Pgz3uItUr8GVy4j",
     "reviews": [
-      "Helped me kickstart my digital marketing career.",
-      "Covers a broad range of marketing topics.",
-      "The examples are highly practical."
+      "This course helped me kickstart my digital marketing career, providing a strong foundation in essential concepts and practical tools that I could apply immediately.",
+      "The course covers a broad range of marketing topics in a well-structured and easy-to-follow format, making it perfect for beginners and professionals alike.",
+      "The examples provided are highly practical and relevant, helping to bridge the gap between theory and real-world digital marketing applications."
     ]
   },
   {
     "name": "The Complete Android Developer Course",
     "instructor": "Rob Percival",
+    "instructor_photo":"https://i.insider.com/54f077486bb3f76c1fcb781e?width=800&format=jpeg&auto=webp",
+    "instructor_description":"Rob Percival is a highly acclaimed web developer, entrepreneur, and instructor, known for his engaging teaching style and comprehensive courses. With a background in mathematics from the University of Cambridge and years of experience in web development, Rob has taught millions of students worldwide through his top-rated online courses. As a passionate educator, he simplifies complex topics, empowering learners to master skills in web development, app creation, and programming. Rob’s courses focus on practical, hands-on learning, making them ideal for beginners and professionals looking to enhance their technical expertise and build real-world projects.",
     "rating": 4.5,
     "techStack": ["Java", "Kotlin", "Android"],
     "overview": "Master Android development and build stunning apps.",
-    "detailedContent": "This course covers Android Studio, Java, Kotlin, UI design, and deploying apps on Google Play Store.",
+    "detailedContent": "The Complete Android Developer Course is a comprehensive program designed to take you from a beginner to a proficient Android app developer. The course starts with the fundamentals of Android development using Java and Kotlin, including setting up Android Studio and understanding core concepts like activities, fragments, and layouts. You’ll dive into UI design principles to create visually appealing and user-friendly apps. Additionally, the course covers integrating APIs, managing data with databases, and deploying your apps on the Google Play Store. Through hands-on projects and practical examples, this course equips you with the skills and confidence to build professional-grade Android applications.",
     "duration": "35 hours",
     "tags": ["Mobile Development", "Android"],
-    "image": "https://img-c.udemycdn.com/course/240x135/951618_0839_2.jpg",
+    "image": "https://img-c.udemycdn.com/course/750x422/951618_0839_2.jpg",
+    "dummyvideo_link":"https://youtu.be/NLvaOL6Cm48?si=_8YMZ5kvsm4AXnt7",
     "reviews": [
-      "A very thorough course for Android development.",
-      "Helped me get started with building my first app.",
-      "Rob's teaching is clear and beginner-friendly."
+      "This is a very thorough and well-structured course for Android development, covering everything from the basics to advanced concepts with practical applications.",
+      "The course helped me get started with building my first app, providing clear guidance and hands-on exercises that made the learning process enjoyable.",
+      "Rob's teaching is incredibly clear and beginner-friendly, making complex Android development concepts easy to understand and apply."
     ]
   },
   {
     "name": "Master Ethical Hacking from Scratch",
     "instructor": "Zaid Sabih",
+    "instructor_photo":"https://zsecurity.org/wp-content/uploads/2020/03/Zaid.png",
+    "instructor_description":"Zaid Sabih is a cybersecurity expert, educator, and ethical hacker with extensive experience in penetration testing and network security. As the founder of zSecurity, Zaid has dedicated his career to teaching individuals and organizations how to secure their systems from cyber threats. Known for his engaging and practical teaching style, Zaid specializes in simplifying complex cybersecurity topics through real-world examples and hands-on exercises. His courses cover ethical hacking, network security, and advanced penetration testing techniques, making them ideal for beginners and professionals seeking to enhance their cybersecurity knowledge and skills.",
     "rating": 4.7,
     "techStack": ["Ethical Hacking", "Cybersecurity"],
     "overview": "Learn to ethically hack and secure systems.",
-    "detailedContent": "This course teaches penetration testing, network security, and using tools like Metasploit and Wireshark.",
+    "detailedContent": "The Master Ethical Hacking from Scratch course is a comprehensive program designed to teach you how to ethically hack and secure computer systems. Starting with the basics of penetration testing and network security, the course progresses to advanced topics such as exploiting vulnerabilities and securing systems. You'll gain hands-on experience using powerful tools like Metasploit and Wireshark, learning how to identify and mitigate potential threats effectively. With practical labs and real-world scenarios, this course equips you with the knowledge and skills needed to become a proficient ethical hacker, making it ideal for beginners and professionals looking to enhance their cybersecurity expertise.",
     "duration": "25 hours",
     "tags": ["Cybersecurity", "Ethical Hacking"],
-    "image": "https://img-c.udemycdn.com/course/240x135/857010_8239_2.jpg",
+    "image": "https://img-c.udemycdn.com/course/480x270/857010_8239_5.jpg",
+    "dummyvideo_link":"https://youtu.be/cKEf8H9cQGM?si=X4mFC_uUFh4tkzgW",
     "reviews": [
-      "Comprehensive and hands-on hacking course.",
-      "The practical labs are extremely useful.",
-      "Covers all aspects of ethical hacking."
+      "This is a comprehensive and hands-on hacking course that provides in-depth knowledge and practical skills for mastering ethical hacking.",
+      "The practical labs are incredibly useful, offering real-world scenarios that help reinforce the concepts and techniques taught in the course.",
+      "The course covers all aspects of ethical hacking, making it a perfect choice for anyone looking to gain a solid foundation in cybersecurity."
     ]
   },
   {
     "name": "Graphic Design Masterclass - Learn GREAT Design",
     "instructor": "Lindsay Marsh",
+    "instructor_photo":"https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F964f0883-ce9a-4f3c-999f-8ee858e3d637_1000x1000.jpeg",
+    "instructor_description":"Lindsay Marsh is a professional graphic designer and educator with over 15 years of experience in design, branding, and creative arts. Known for her passion for teaching, Lindsay has helped thousands of students worldwide develop their design skills through her engaging and practical courses. She specializes in teaching graphic design principles, typography, branding, and the use of industry-standard tools like Adobe Photoshop, Illustrator, and InDesign. Lindsay’s approachable teaching style and hands-on projects empower learners to confidently create professional-quality designs, making her courses ideal for beginners and aspiring designers looking to build a strong foundation in the creative field.",
     "rating": 4.6,
     "techStack": ["Graphic Design", "Adobe Photoshop", "Illustrator"],
     "overview": "Master graphic design principles and tools.",
-    "detailedContent": "Learn the fundamentals of design, typography, branding, and using tools like Photoshop, Illustrator, and InDesign.",
+    "detailedContent": "The Graphic Design Masterclass - Learn GREAT Design is a comprehensive course that covers the core principles and tools needed to create professional-quality designs. You'll learn the fundamentals of design, including layout, color theory, and typography, along with essential branding techniques to craft compelling visual identities. The course provides in-depth training on industry-standard tools like Adobe Photoshop, Illustrator, and InDesign, enabling you to bring your creative ideas to life. Through practical projects and hands-on exercises, you’ll gain the confidence and skills to design stunning graphics for both personal and professional use, making this course perfect for beginners and aspiring designers.",
     "duration": "18 hours",
     "tags": ["Graphic Design", "Creative"],
-    "image": "https://img-c.udemycdn.com/course/240x135/1399020_8a66_3.jpg",
+    "image": "https://designcuts.b-cdn.net/wp-content/uploads/2023/09/Graphic-Design-Masterclass-Learn-GREAT-Design-Cover.jpg",
+    "dummyvideo_link":"https://www.youtube.com/live/Zwgj5bowbjc?si=1vZVG7m_zwsDbot8",
     "reviews": [
-      "Lindsay explains design principles beautifully.",
-      "Great for beginners looking to start a design career.",
-      "The tools and projects are very engaging."
+      "Lindsay explains design principles beautifully, breaking down complex concepts into simple and practical lessons that are easy to follow and apply.",
+      "This course is perfect for beginners looking to start a design career, offering clear guidance and a strong foundation in graphic design essentials.",
+      "The tools and projects are incredibly engaging, providing hands-on experience with industry-standard software and real-world design challenges."
     ]
   },
   {
     "name": "Building Microservices with Node.js",
     "instructor": "Stephen Grider",
+    "instructor_photo":"https://avatars.githubusercontent.com/u/5003903?v=4",
+    "instructor_description":"Stephen Grider is a renowned software engineer and educator with extensive experience in building scalable applications and teaching complex concepts in an easy-to-understand manner. His microservices courses are highly acclaimed for their clear explanations, practical projects, and deep dive into modern backend architecture. Stephen specializes in teaching how to design, build, and deploy microservices using Node.js, Docker, Kubernetes, and other cutting-edge tools. With a strong focus on real-world applications, his courses are perfect for developers aiming to master microservices architecture and build high-performance, scalable systems.",
     "rating": 4.7,
     "techStack": ["Node.js", "Microservices"],
     "overview": "Build scalable microservices using Node.js.",
-    "detailedContent": "This course teaches you how to build, deploy, and secure microservices with Node.js, Docker, and Kubernetes.",
+    "detailedContent": "The Building Microservices with Node.js course is a comprehensive guide to designing and implementing scalable microservices architecture. You’ll learn to build robust microservices using Node.js and integrate them seamlessly with modern tools like Docker and Kubernetes for deployment and orchestration. The course covers critical concepts such as service communication, API gateways, and securing microservices, ensuring a strong foundation in backend development. Through practical exercises and real-world projects, you’ll gain hands-on experience in building scalable, maintainable, and high-performance applications, making this course ideal for developers looking to advance their skills in modern backend development.",
     "duration": "25 hours",
     "tags": ["Backend Development", "Microservices"],
-    "image": "https://img-c.udemycdn.com/course/240x135/1565838_e54e_13.jpg",
+    "image": "https://img-c.udemycdn.com/course/750x422/2887266_c696_5.jpg",
+    "dummyvideo_link":"https://youtu.be/UxoklNY7L30?si=iGAP7FnQulxbxJA_",
     "reviews": [
-      "A solid introduction to microservices architecture.",
-      "Stephen's explanations are always on point.",
-      "Great course for backend developers."
+      "This course provides a solid introduction to microservices architecture, offering a clear and structured approach to building scalable backend systems.",
+      "Stephen's explanations are always precise and easy to follow, making even complex topics feel approachable and practical.",
+      "A fantastic course for backend developers, packed with real-world examples and hands-on projects to enhance your skills in microservices."
     ]
   }
 ]
