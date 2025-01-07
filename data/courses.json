@@ -1,0 +1,323 @@
+[
+  {
+    "name": "100 Days of Code: The Complete Python Pro Bootcamp for 2023",
+    "instructor": "Dr. Angela Yu",
+    "rating": 4.8,
+    "techStack": ["Python", "Flask", "Django", "Data Science"],
+    "overview": "Master Python by building 100 projects in 100 days.",
+    "detailedContent": "This comprehensive course covers Python programming, web development with Flask and Django, data analysis, automation, and more. Each day introduces a new project to solidify your skills.",
+    "duration": "60 hours",
+    "tags": ["Python", "Web Development", "Data Science"],
+    "image": "https://img-c.udemycdn.com/course/240x135/2776760_f176_10.jpg",
+    "reviews": [
+      "An excellent course with a hands-on approach to learning Python.",
+      "Dr. Angela Yu's teaching style is engaging and easy to follow.",
+      "The 100 projects helped me build a solid foundation in Python."
+    ]
+  },
+  {
+    "name": "The Complete 2024 Web Development Bootcamp",
+    "instructor": "Dr. Angela Yu",
+    "rating": 4.7,
+    "techStack": ["HTML", "CSS", "JavaScript", "Node.js", "React"],
+    "overview": "Become a Full-Stack Web Developer with just ONE course.",
+    "detailedContent": "Learn front-end and back-end development, including HTML, CSS, JavaScript, Node.js, React, and databases. Build real-world projects to showcase your skills.",
+    "duration": "55 hours",
+    "tags": ["Web Development", "Full-Stack"],
+    "image": "https://img-c.udemycdn.com/course/240x135/1565838_e54e_16.jpg",
+    "reviews": [
+      "Comprehensive and up-to-date course on web development.",
+      "The projects are practical and helped me build my portfolio.",
+      "Dr. Yu explains complex concepts in an easy-to-understand manner."
+    ]
+  },
+  {
+    "name": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+    "instructor": "Kirill Eremenko",
+    "rating": 4.5,
+    "techStack": ["Python", "R", "Machine Learning"],
+    "overview": "Learn to create Machine Learning Algorithms in Python and R.",
+    "detailedContent": "This course covers machine learning algorithms, data preprocessing, regression, classification, clustering, and more, with practical exercises in Python and R.",
+    "duration": "40 hours",
+    "tags": ["Machine Learning", "Data Science"],
+    "image": "https://img-c.udemycdn.com/course/240x135/950390_270f_3.jpg",
+    "reviews": [
+      "Great course with practical examples.",
+      "Helped me understand complex ML concepts.",
+      "Well-structured and easy to follow."
+    ]
+  },
+  {
+    "name": "The Complete JavaScript Course 2023: From Zero to Expert!",
+    "instructor": "Jonas Schmedtmann",
+    "rating": 4.8,
+    "techStack": ["JavaScript", "ES6+", "Node.js", "React"],
+    "overview": "Master JavaScript with projects, challenges, and theory.",
+    "detailedContent": "Dive deep into JavaScript, covering ES6+, asynchronous programming, DOM manipulation, and build real-world projects like a web app and a modern website.",
+    "duration": "52 hours",
+    "tags": ["JavaScript", "Web Development"],
+    "image": "https://img-c.udemycdn.com/course/240x135/1672410_9ff1_5.jpg",
+    "reviews": [
+      "Jonas is a fantastic instructor.",
+      "The course content is up-to-date and comprehensive.",
+      "Projects are challenging and rewarding."
+    ]
+  },
+  {
+    "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+    "instructor": "Maximilian Schwarzmüller",
+    "rating": 4.7,
+    "techStack": ["React", "Hooks", "Redux", "React Router"],
+    "overview": "Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Routing, Animations, Next.js, and way more!",
+    "detailedContent": "This course covers React fundamentals, component-based architecture, state management with Hooks and Redux, routing with React Router, and building performant applications.",
+    "duration": "40 hours",
+    "tags": ["React", "Front-End Development"],
+    "image": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+    "reviews": [
+      "Maximilian explains React concepts clearly.",
+      "The course is well-structured and easy to follow.",
+      "Helped me build confidence in React development."
+    ]
+  },
+  {
+    "name": "Python for Data Science and Machine Learning Bootcamp",
+    "instructor": "Jose Portilla",
+    "rating": 4.6,
+    "techStack": ["Python", "Pandas", "Machine Learning"],
+    "overview": "Use Python for data analysis and machine learning.",
+    "detailedContent": "Covers Python libraries like Pandas, NumPy, Matplotlib, and machine learning basics with Scikit-Learn.",
+    "duration": "40 hours",
+    "tags": ["Data Science", "Python"],
+    "image": "https://img-c.udemycdn.com/course/240x135/903744_8eb2.jpg",
+    "reviews": [
+      "Jose's explanations are clear and concise.",
+      "A great starting point for data science.",
+      "Could dive deeper into machine learning algorithms."
+    ]
+  },
+  {
+    "name": "The Data Science Course 2023: Complete Data Science Bootcamp",
+    "instructor": "365 Careers",
+    "rating": 4.6,
+    "techStack": ["Python", "SQL", "Machine Learning"],
+    "overview": "Learn the core of data science and analytics.",
+    "detailedContent": "This course covers Python, statistics, probability, machine learning, and SQL for data analysis, with practical examples.",
+    "duration": "30 hours",
+    "tags": ["Data Science", "Machine Learning"],
+    "image": "https://img-c.udemycdn.com/course/240x135/1754098_e0df_3.jpg",
+    "reviews": [
+      "A well-rounded introduction to data science.",
+      "The examples make concepts easy to grasp.",
+      "The SQL section is particularly helpful."
+    ]
+  },
+  {
+    "name": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+    "instructor": "Colt Steele",
+    "rating": 4.7,
+    "techStack": ["MySQL", "SQL"],
+    "overview": "Master SQL for database management and analysis.",
+    "detailedContent": "This course includes MySQL fundamentals, database design, complex queries, and data visualization.",
+    "duration": "20 hours",
+    "tags": ["Database", "SQL"],
+    "image": "https://img-c.udemycdn.com/course/240x135/1187016_51b3.jpg",
+    "reviews": [
+      "Colt makes SQL interesting and accessible.",
+      "The hands-on exercises are invaluable.",
+      "Great for both beginners and experienced developers."
+    ]
+  },
+  {
+    "name": "Blockchain and Cryptocurrency Explained",
+    "instructor": "George Levy",
+    "rating": 4.5,
+    "techStack": ["Blockchain", "Cryptocurrency"],
+    "overview": "Understand blockchain technology and its applications.",
+    "detailedContent": "Learn the fundamentals of blockchain, cryptocurrencies, and how they are transforming industries.",
+    "duration": "8 hours",
+    "tags": ["Blockchain", "Cryptocurrency"],
+    "image": "https://img-c.udemycdn.com/course/240x135/1597138_03b2_2.jpg",
+    "reviews": [
+      "A simple yet comprehensive introduction to blockchain.",
+      "George explains concepts clearly with real-world examples.",
+      "Perfect for anyone new to blockchain."
+    ]
+  },
+  {
+    "name": "Complete Guide to TensorFlow for Deep Learning with Python",
+    "instructor": "Jose Portilla",
+    "rating": 4.7,
+    "techStack": ["TensorFlow", "Python", "Deep Learning"],
+    "overview": "Master TensorFlow for deep learning and neural networks.",
+    "detailedContent": "This course covers TensorFlow basics, building neural networks, and implementing deep learning algorithms.",
+    "duration": "25 hours",
+    "tags": ["Deep Learning", "AI"],
+    "image": "https://img-c.udemycdn.com/course/240x135/1361930_2eb7_2.jpg",
+    "reviews": [
+      "Jose breaks down TensorFlow in a digestible way.",
+      "Excellent course for deep learning beginners.",
+      "The practical examples are extremely helpful."
+    ]
+  },
+  {
+    "name": "Photography Masterclass: A Complete Guide to Photography",
+    "instructor": "Phil Ebiner",
+    "rating": 4.7,
+    "techStack": ["Photography"],
+    "overview": "Learn photography from beginner to advanced levels.",
+    "detailedContent": "This course covers camera settings, composition, lighting, and editing techniques.",
+    "duration": "15 hours",
+    "tags": ["Photography", "Lifestyle"],
+    "image": "https://img-c.udemycdn.com/course/240x135/936742_97f1_4.jpg",
+    "reviews": [
+      "Helped me take my photography to the next level.",
+      "Phil is a fantastic and passionate instructor.",
+      "Highly recommended for beginners and enthusiasts alike."
+    ]
+  },
+  {
+    "name": "AWS Certified Solutions Architect – Associate 2023",
+    "instructor": "Stephane Maarek",
+    "rating": 4.8,
+    "techStack": ["AWS", "Cloud Computing"],
+    "overview": "Pass your AWS certification with this all-in-one course.",
+    "detailedContent": "Learn AWS fundamentals, design scalable systems, and prepare for the certification exam with hands-on labs.",
+    "duration": "30 hours",
+    "tags": ["Cloud Computing", "AWS"],
+    "image": "https://img-c.udemycdn.com/course/240x135/2196488_8fc7.jpg",
+    "reviews": [
+      "Comprehensive and exam-focused AWS course.",
+      "Stephane's teaching style is engaging and effective.",
+      "The practice tests were a game-changer for me."
+    ]
+  },
+  {
+    "name": "Python for Finance: Investment Fundamentals & Data Analytics",
+    "instructor": "365 Careers",
+    "rating": 4.6,
+    "techStack": ["Python", "Finance"],
+    "overview": "Learn Python and apply it to finance and investing.",
+    "detailedContent": "Covers Python programming, financial analysis, and building financial models using libraries like Pandas and Matplotlib.",
+    "duration": "18 hours",
+    "tags": ["Finance", "Python"],
+    "image": "https://img-c.udemycdn.com/course/240x135/2102674_00d2_3.jpg",
+    "reviews": [
+      "Great course for learning finance with Python.",
+      "Practical examples make concepts easy to grasp.",
+      "Helped me understand financial modeling better."
+    ]
+  },
+  {
+    "name": "Mastering Data Structures & Algorithms using C and C++",
+    "instructor": "Abdul Bari",
+    "rating": 4.7,
+    "techStack": ["C", "C++", "Data Structures"],
+    "overview": "A comprehensive course on data structures and algorithms.",
+    "detailedContent": "This course dives into sorting, searching, and advanced data structures like trees, graphs, and dynamic programming.",
+    "duration": "45 hours",
+    "tags": ["Data Structures", "Algorithms"],
+    "image": "https://img-c.udemycdn.com/course/240x135/857010_8239_2.jpg",
+    "reviews": [
+      "Abdul explains algorithms like no one else.",
+      "The course content is thorough and well-paced.",
+      "Perfect for anyone preparing for coding interviews."
+    ]
+  },
+  {
+    "name": "iOS & Swift - The Complete iOS App Development Bootcamp",
+    "instructor": "Dr. Angela Yu",
+    "rating": 4.8,
+    "techStack": ["Swift", "iOS"],
+    "overview": "Learn to build iOS apps from scratch using Swift.",
+    "detailedContent": "This course covers Swift fundamentals, UI design, APIs, and deploying iOS apps to the App Store.",
+    "duration": "45 hours",
+    "tags": ["Mobile Development", "iOS"],
+    "image": "https://img-c.udemycdn.com/course/240x135/1778502_f4b9_12.jpg",
+    "reviews": [
+      "Dr. Yu's teaching style is unmatched.",
+      "I built my first iOS app with this course.",
+      "Perfect blend of theory and practice."
+    ]
+  },
+  {
+    "name": "The Complete Digital Marketing Guide - 12 Courses in 1",
+    "instructor": "Rob Percival",
+    "rating": 4.5,
+    "techStack": ["Digital Marketing"],
+    "overview": "Master digital marketing from SEO to social media.",
+    "detailedContent": "Includes SEO, content marketing, Google Ads, social media, and analytics for creating successful campaigns.",
+    "duration": "30 hours",
+    "tags": ["Digital Marketing"],
+    "image": "https://img-c.udemycdn.com/course/240x135/914296_3670_4.jpg",
+    "reviews": [
+      "Helped me kickstart my digital marketing career.",
+      "Covers a broad range of marketing topics.",
+      "The examples are highly practical."
+    ]
+  },
+  {
+    "name": "The Complete Android Developer Course",
+    "instructor": "Rob Percival",
+    "rating": 4.5,
+    "techStack": ["Java", "Kotlin", "Android"],
+    "overview": "Master Android development and build stunning apps.",
+    "detailedContent": "This course covers Android Studio, Java, Kotlin, UI design, and deploying apps on Google Play Store.",
+    "duration": "35 hours",
+    "tags": ["Mobile Development", "Android"],
+    "image": "https://img-c.udemycdn.com/course/240x135/951618_0839_2.jpg",
+    "reviews": [
+      "A very thorough course for Android development.",
+      "Helped me get started with building my first app.",
+      "Rob's teaching is clear and beginner-friendly."
+    ]
+  },
+  {
+    "name": "Master Ethical Hacking from Scratch",
+    "instructor": "Zaid Sabih",
+    "rating": 4.7,
+    "techStack": ["Ethical Hacking", "Cybersecurity"],
+    "overview": "Learn to ethically hack and secure systems.",
+    "detailedContent": "This course teaches penetration testing, network security, and using tools like Metasploit and Wireshark.",
+    "duration": "25 hours",
+    "tags": ["Cybersecurity", "Ethical Hacking"],
+    "image": "https://img-c.udemycdn.com/course/240x135/857010_8239_2.jpg",
+    "reviews": [
+      "Comprehensive and hands-on hacking course.",
+      "The practical labs are extremely useful.",
+      "Covers all aspects of ethical hacking."
+    ]
+  },
+  {
+    "name": "Graphic Design Masterclass - Learn GREAT Design",
+    "instructor": "Lindsay Marsh",
+    "rating": 4.6,
+    "techStack": ["Graphic Design", "Adobe Photoshop", "Illustrator"],
+    "overview": "Master graphic design principles and tools.",
+    "detailedContent": "Learn the fundamentals of design, typography, branding, and using tools like Photoshop, Illustrator, and InDesign.",
+    "duration": "18 hours",
+    "tags": ["Graphic Design", "Creative"],
+    "image": "https://img-c.udemycdn.com/course/240x135/1399020_8a66_3.jpg",
+    "reviews": [
+      "Lindsay explains design principles beautifully.",
+      "Great for beginners looking to start a design career.",
+      "The tools and projects are very engaging."
+    ]
+  },
+  {
+    "name": "Building Microservices with Node.js",
+    "instructor": "Stephen Grider",
+    "rating": 4.7,
+    "techStack": ["Node.js", "Microservices"],
+    "overview": "Build scalable microservices using Node.js.",
+    "detailedContent": "This course teaches you how to build, deploy, and secure microservices with Node.js, Docker, and Kubernetes.",
+    "duration": "25 hours",
+    "tags": ["Backend Development", "Microservices"],
+    "image": "https://img-c.udemycdn.com/course/240x135/1565838_e54e_13.jpg",
+    "reviews": [
+      "A solid introduction to microservices architecture.",
+      "Stephen's explanations are always on point.",
+      "Great course for backend developers."
+    ]
+  }
+]
+
