@@ -9,6 +9,7 @@ export interface Course {
     tags: string[];
     image: string;
     reviews: string[];
+    price: number; 
   }
   
   
