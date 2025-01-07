@@ -33,7 +33,7 @@ export default function CourseCard({ course }: { course: Course }) {
           <div className="flex justify-between items-center">
             <div className="flex flex-wrap gap-2">
               {course.tags && course.tags.length > 0 ? (
-                course.tags.map((tag) => (
+                course.tags.slice(0, 2).map((tag) => (
                   <span key={tag} className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full">
                     {tag}
                   </span>
