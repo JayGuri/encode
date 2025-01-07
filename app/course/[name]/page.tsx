@@ -1,6 +1,7 @@
 import { getCourseByName, getCourses } from '@/lib/api'
 import ReviewCarousel from '@/components/ReviewCarousel'
 import Link from 'next/link'
+import { Star } from 'lucide-react'
 
 export async function generateStaticParams() {
   const courses = await getCourses()
@@ -31,15 +32,22 @@ export default async function CoursePage({ params }: { params: { name: string } 
           <div className="p-6">
             <h1 className="text-3xl font-bold mb-4 text-gray-800">{course.name}</h1>
             <p className="text-gray-700 mb-4">{course.overview}</p>
-            <div className="grid grid-cols-2 gap-4">
+            <div className="grid grid-cols-2 gap-4 mb-4">
               <div>
                 <h2 className="text-xl font-semibold mb-2 text-gray-800">Duration</h2>
                 <p className="text-gray-700">{course.duration}</p>
               </div>
               <div>
                 <h2 className="text-xl font-semibold mb-2 text-gray-800">Rating</h2>
-                <p className="text-gray-700">{course.rating.toFixed(1)} / 5.0</p>
+                <p className="text-gray-700 flex items-center">
+                  <Star className="w-5 h-5 mr-1 fill-yellow-400 text-yellow-400" />
+                  {course.rating.toFixed(1)} / 5.0
+                </p>
               </div>
+            </div>
+            <div className="mb-4">
+              <h2 className="text-xl font-semibold mb-2 text-gray-800">Price</h2>
+              <p className="text-3xl font-bold text-green-600">₹{course.price}</p>
             </div>
             <h2 className="text-xl font-semibold mt-4 mb-2 text-gray-800">Tech Stack</h2>
             <div className="flex flex-wrap gap-2">
