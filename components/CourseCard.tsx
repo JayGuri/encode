@@ -1,17 +1,20 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import { Course } from '@/lib/types'
 import { Star } from 'lucide-react'
 
 export default function CourseCard({ course }: { course: Course }) {
   return (
     <Link href={`/course/${encodeURIComponent(course.name)}`}>
-      <div className="bg-white bg-opacity-30 backdrop-blur-lg rounded-xl shadow-lg overflow-hidden transition-all duration-300 hover:scale-105 hover:bg-opacity-40 h-full flex flex-col group">
+      <div className="bg-white bg-opacity-80 backdrop-blur-lg rounded-xl shadow-lg overflow-hidden transition-all duration-300 h-full flex flex-col card-hover">
         <div className="relative aspect-video w-full">
           {course.image && course.image.trim() !== '' ? (
-            <img
+            <Image
               src={course.image}
               alt={course.name}
-              className="object-cover w-full h-full"
+              layout="fill"
+              objectFit="cover"
+              loading="lazy"
             />
           ) : (
             <div className="w-full h-full flex items-center justify-center bg-gray-200">
@@ -24,14 +27,14 @@ export default function CourseCard({ course }: { course: Course }) {
           </div>
         </div>
         <div className="p-6 flex-grow flex flex-col">
-          <h2 className="text-xl font-bold mb-2 text-gray-800 line-clamp-2 group-hover:text-gray-900">{course.name}</h2>
-          <p className="text-gray-700 mb-2 group-hover:text-gray-800">Instructor: {course.instructor || 'Unknown'}</p>
-          <p className="text-gray-600 mb-4 flex-grow line-clamp-3 group-hover:text-gray-700">{course.overview || 'No overview available'}</p>
+          <h2 className="text-xl font-bold mb-2 text-gray-800 line-clamp-2">{course.name}</h2>
+          <p className="text-gray-600 mb-2">Instructor: {course.instructor || 'Unknown'}</p>
+          <p className="text-gray-600 mb-4 flex-grow line-clamp-3">{course.overview || 'No overview available'}</p>
           <div className="flex justify-between items-center">
             <div className="flex flex-wrap gap-2">
               {course.tags && course.tags.length > 0 ? (
                 course.tags.map((tag) => (
-                  <span key={tag} className="bg-blue-600 bg-opacity-70 text-white text-xs px-2 py-1 rounded-full">
+                  <span key={tag} className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full">
                     {tag}
                   </span>
                 ))

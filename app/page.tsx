@@ -14,8 +14,8 @@ export default async function Home({
   const paginatedCourses = courses.slice((page - 1) * pageSize, page * pageSize)
 
   return (
-    <main className="container mx-auto px-4 py-8">
-      <h1 className="text-4xl font-bold mb-8 text-center text-gray-800">Explore Our Courses</h1>
+    <main className="container mx-auto px-4 py-8 max-w-7xl">
+      <h1 className="text-4xl font-bold mb-8 text-center text-gradient">Explore Our Courses</h1>
       <CourseGrid courses={paginatedCourses} />
       <Pagination currentPage={page} totalPages={totalPages} />
     </main>

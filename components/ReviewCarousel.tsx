@@ -1,18 +1,18 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useCallback } from 'react'
 import { ChevronLeft, ChevronRight } from 'lucide-react'
 
 export default function ReviewCarousel({ reviews, textColor }: { reviews: string[], textColor: string }) {
   const [currentIndex, setCurrentIndex] = useState(0)
 
-  const nextReview = () => {
+  const nextReview = useCallback(() => {
     setCurrentIndex((prevIndex) => (prevIndex + 1) % reviews.length)
-  }
+  }, [reviews.length])
 
-  const prevReview = () => {
+  const prevReview = useCallback(() => {
     setCurrentIndex((prevIndex) => (prevIndex - 1 + reviews.length) % reviews.length)
-  }
+  }, [reviews.length])
 
   return (
     <div className="relative">
