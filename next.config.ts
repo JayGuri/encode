@@ -9,6 +9,8 @@ const nextConfig = {
       },
     ],
   },
+  // Enable static exports for improved performance on Vercel
+  output: 'export',
 }
 
 module.exports = nextConfig
