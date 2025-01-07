@@ -8,6 +8,7 @@ export async function getCourses(): Promise<Course[]> {
 }
 
 export async function getCourseByName(name: string): Promise<Course | undefined> {
-  return courses.find(course => course.name === name);
+  const decodedName = decodeURIComponent(name);
+  return courses.find(course => course.name === decodedName);
 }
 

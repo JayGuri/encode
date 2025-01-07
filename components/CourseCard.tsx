@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import Link from 'next/link'
 import { Course } from '../lib/types'
 
@@ -8,12 +7,10 @@ export default function CourseCard({ course }: { course: Course }) {
       <div className="bg-white bg-opacity-30 backdrop-blur-lg rounded-xl shadow-lg overflow-hidden transition-all duration-300 hover:scale-105 hover:bg-opacity-40 h-full flex flex-col">
         <div className="relative h-48 w-full">
           {course.image && course.image.trim() !== '' ? (
-            <Image
+            <img
               src={course.image}
               alt={course.name}
-              fill
-              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-              className="object-cover"
+              className="object-cover w-full h-full"
             />
           ) : (
             <div className="w-full h-full flex items-center justify-center bg-gray-200">

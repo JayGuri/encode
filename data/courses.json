@@ -5,7 +5,7 @@
     "rating": 4.8,
     "techStack": ["Python", "Flask", "Django", "Data Science"],
     "overview": "Master Python by building 100 projects in 100 days.",
-    "detailedContent": "This comprehensive course covers Python programming, web development with Flask and Django, data analysis, automation, and more. Each day introduces a new project to solidify your skills.",
+    "detailedContent": "The '100 Days of Code: The Complete Python Pro Bootcamp' for 2023 is a hands-on, project-based course designed to help you master Python and related technologies. Over 100 days, you will build 100 real-world projects, covering Python fundamentals, web development with Flask and Django, data science, machine learning basics, automation, and game development. You'll also work with APIs, create GUI applications, and explore data visualization using popular libraries like Pandas, Matplotlib, and NumPy. With a focus on practical learning, this course ensures you develop a robust skill set and a portfolio of projects to showcase your expertise in Python programming.",
     "duration": "60 hours",
     "tags": ["Python", "Web Development", "Data Science"],
     "image": "https://img-c.udemycdn.com/course/240x135/2776760_f176_10.jpg",

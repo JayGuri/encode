@@ -1,7 +1,13 @@
-import { getCourseByName } from '@/lib/api'
-import Image from 'next/image'
+import { getCourseByName, getCourses } from '@/lib/api'
 import ReviewCarousel from '@/components/ReviewCarousel'
 import Link from 'next/link'
+
+export async function generateStaticParams() {
+  const courses = await getCourses()
+  return courses.map((course) => ({
+    name: encodeURIComponent(course.name),
+  }))
+}
 
 export default async function CoursePage({ params }: { params: { name: string } }) {
   const course = await getCourseByName(decodeURIComponent(params.name))
@@ -16,12 +22,10 @@ export default async function CoursePage({ params }: { params: { name: string } 
       <div className="bg-white bg-opacity-30 backdrop-blur-lg rounded-xl shadow-lg overflow-hidden mb-8">
         <div className="relative h-64 md:h-96 bg-gray-800">
           {course.image && course.image.trim() !== '' && (
-            <Image
+            <img
               src={course.image}
               alt={course.name}
-              fill
-              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-              className="object-contain"
+              className="object-contain w-full h-full"
             />
           )}
           <div className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 text-white p-4">
