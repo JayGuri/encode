@@ -53,6 +53,7 @@ export default async function CoursePage({ params }: { params: { name: string } 
                   <span className="text-purple-700">{course.techStack.join(', ')}</span>
                 </div>
                 <div className="flex items-center bg-green-50 p-2 rounded-lg">
+                  <DollarSign className="w-5 h-5 mr-2 text-green-500" />
                   <span className="text-2xl font-bold text-green-600">₹{course.price}</span>
                 </div>
               </div>
@@ -80,11 +81,11 @@ export default async function CoursePage({ params }: { params: { name: string } 
           </div>
 
           {/* Course Preview and Reviews side by side */}
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
             {/* Course Preview */}
             <div className="bg-white rounded-xl shadow-md p-6 flex flex-col transition-all duration-300 hover:shadow-xl">
               <h2 className="text-2xl font-bold mb-4 text-gradient">Course Preview</h2>
-              <div className="flex-grow relative rounded-lg overflow-hidden shadow-md">
+              <div className="w-full aspect-video relative rounded-lg overflow-hidden shadow-md">
                 <iframe
                   src={youtubeEmbedUrl}
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
