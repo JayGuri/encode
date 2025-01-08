@@ -15,15 +15,15 @@ export default function ReviewCarousel({ reviews, textColor }: { reviews: string
   }, [reviews.length])
 
   return (
-    <div className="relative">
-      <div className="overflow-hidden h-48">
+    <div className="relative w-full h-full">
+      <div className="overflow-hidden h-full">
         <div 
-          className="transition-transform duration-300 ease-in-out flex"
+          className="transition-transform duration-300 ease-in-out flex items-center justify-center"
           style={{ transform: `translateX(-${currentIndex * 100}%)`, width: `${reviews.length * 100}%` }}
         >
           {reviews.map((review, index) => (
-            <div key={index} className="w-full flex-shrink-0 flex items-center justify-center p-4">
-              <p className={`${textColor} text-center`}>{review}</p>
+            <div key={index} className="w-full h-full flex-shrink-0 flex items-center justify-center p-4">
+              <p className={`${textColor} text-center text-lg`}>{review}</p>
             </div>
           ))}
         </div>
@@ -42,7 +42,7 @@ export default function ReviewCarousel({ reviews, textColor }: { reviews: string
       >
         <ChevronRight className="w-6 h-6" />
       </button>
-      <div className="flex justify-center mt-4">
+      <div className="absolute bottom-2 left-0 right-0 flex justify-center">
         {reviews.map((_, index) => (
           <button
             key={index}
@@ -57,4 +57,3 @@ export default function ReviewCarousel({ reviews, textColor }: { reviews: string
     </div>
   )
 }
-
